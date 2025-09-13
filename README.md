@@ -1,4 +1,7 @@
-# BLiqNet: Bidirectional Liquid Neural Network for Ground Motion Modeling
+# Ground Motion Modelling with Bidirectional Liquid Neural Network (BLiqNet)
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/9320a2d9-229c-4860-85a7-446c2ba1acc7" />
+
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Python](https://img.shields.io/badge/python-3.9%2B-brightgreen.svg)
